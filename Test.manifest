@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4044909341
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: channel.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: sounds.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: assetsmap_bytes.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: variantsmap_bytes.assetbundle
+      Dependencies: {}

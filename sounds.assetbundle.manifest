@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1428083240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba6702085fa6c17e630a8f94a1606746
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04fe97b7fc2f56a12f72365bd4c81609
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/Sounds/boomDragonDie.mp3
+- Assets/AssetsPackage/Sounds/aulaDie 1.mp3
+- Assets/AssetsPackage/Channel/Sounds.bytes
+- Assets/AssetsPackage/Sounds/aulaDie 2.mp3
+- Assets/AssetsPackage/Sounds/click.mp3
+- Assets/AssetsPackage/Sounds/aulaDie.mp3
+Dependencies: []
